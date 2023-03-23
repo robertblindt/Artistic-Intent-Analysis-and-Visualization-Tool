@@ -1,9 +1,12 @@
 # Artistic-Intent-Analysis-and-Visualization-Tool
  This repository contains analysis and visualization tools to look at song level acoustic features and album level feature flow pulled from Spotifys API.
 
-In the scope of this project, the term 'artistic intent' is a reference to a quantitative statistical profile of selected albums that a creative would like to emulate some aspect of their production after. By exploring aspects of this project a creative can gain a feeling for how features intensities and trend relate to your actual intent with your production.
+ In the scope of this project, the term 'artistic intent' is a reference to a quantitative statistical profile of selected albums that a creative would like to emulate some aspect of their production after. By exploring aspects of this project a creative can gain a feeling for how features intensities and trend relate to your actual intent with your production.
 
-This is a repository containing a project that analyzes Spotify 'acoustic feature' flow, and a redesigned and verified version of the 'component.one' Spotify features database.  There is a detailed report about how everything works, and why I am treating the data the way I am called `Artistic-Intent-A-and-V-Tool.ipynb`.  
+ There is a detailed report about how everything works, and why I am treating the data the way I am called `Artistic-Intent-A-and-V-Tool.ipynb`.  
+ 
+ The database that I redesigned is about 250 MB, and I worked with the 'segments' version of the 'component.one' database which is about 1 GB, so I can not post them to github unfortunately.  The structure should be easy to recreate.  Feel free to reach out and I will be happy to send them over.  The database that I started with, it can be found at https://components.one/datasets/billboard-200.
+
 
 ## Installation
 
